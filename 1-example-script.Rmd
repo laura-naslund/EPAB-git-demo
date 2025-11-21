@@ -1,0 +1,17 @@
+---
+title: "1-example-script"
+author: "Laura Naslund"
+date: "2025-11-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+head(iris)
+
+hist(iris$Sepal.Length)
+```
+
