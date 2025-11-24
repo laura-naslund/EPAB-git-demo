@@ -22,5 +22,6 @@ hist(iris$Petal.Width)
 
 Laura <- geek
 
+
 ```
 
