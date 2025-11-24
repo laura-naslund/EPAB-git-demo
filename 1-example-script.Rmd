@@ -18,6 +18,6 @@ hist(iris$Sepal.Width)
 
 hist(iris$Petal.Length)
 
-2+5
+hist(iris$Petal.Width)
 ```
 
