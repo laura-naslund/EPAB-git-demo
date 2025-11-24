@@ -19,5 +19,8 @@ hist(iris$Sepal.Width)
 hist(iris$Petal.Length)
 
 hist(iris$Petal.Width)
+
+Laura <- geek
+
 ```
 
